@@ -1,6 +1,6 @@
-# This is a library management application 👩🏻‍💻📗📖
-# There are 2 roles: Librarian and Admin:
-# App summary:
+# This is a library management application 📗📖
+# There are 2 roles: Librarian and Admin 🧑🏻👨🏻‍💻:
+# App summary 📱:
 ![Library_App_SQL_AndroidStudio](https://github.com/dinhtrungndt/Library_App_SQL_AndroidStudio/assets/127390593/a1d71141-ad59-4810-a529-1f1950425666)
 
 # Login:
